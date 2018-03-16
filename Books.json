@@ -1,0 +1,29 @@
+{"fbooks":[
+	{
+"title": "Harry Potter and the Sorcerer's Stone",
+"authors": [
+		"J. K. Rowling",
+                
+               ],
+"publisher" :"Scholastic",
+"yearpublished": 1997
+	},
+	{
+"title": "Harry Potter and the Prisoner of Azkaban",
+"authors": [
+		"J. K. Rowling"
+               ],
+"publisher" :"Scholastic",
+"yearpublished": 1999
+	},
+	{
+"title": "Harry Potter and the Cursed Child",
+"authors": [
+		"J. K. Rowling",
+                "Jack Thorne",
+				"John Tiffany"
+               ],
+"publisher" :"Arthur A. Levine Books",
+"yearpublished": 2016
+	}]
+}

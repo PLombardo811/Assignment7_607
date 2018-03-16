@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fbooks>
+<book>
+<title>Harry Potter and the Sorcerer's Stone</title>
+<authorname>J. K. Rowling</authorname>
+<publisher>Scholastic</publisher>
+<yearpublished>1997</yearpublished>
+</book>
+<book>
+<title>Harry Potter and the Prisoner of Azkaban</title>
+<authorname>J. K. Rowling</authorname>
+<publisher>Scholastic</publisher>
+<yearpublished>1999</yearpublished>
+</book>
+<book>
+<title>Harry Potter and the Cursed Child</title>
+<authorname>J. K. Rowling, Jack Thorne, John Tiffany</authorname>
+<publisher>Arthur A. Levine Books</publisher>
+<yearpublished>2016</yearpublished>
+</book>
+</fbooks> 
